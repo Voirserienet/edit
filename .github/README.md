@@ -6,6 +6,7 @@
 
 ## 📖 Wiki
 
+- Website: https://www.voirserie.net/
 - Website: [fmhy.net](https://fmhy.net)
 - News & Monthly Updates: [fmhy.net/posts](https://fmhy.net/posts)
 - Backups: [github.com/fmhy/FMHY/wiki/Backups](https://github.com/fmhy/FMHY/wiki/Backups)
